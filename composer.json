@@ -7,6 +7,10 @@
 		"php": ">=7.1"
 	},
 
+	"conflict": {
+		"phpgt/dom": "*"
+	},
+
 	"license": "MIT",
 
 	"autoload": {
